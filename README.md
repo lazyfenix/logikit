@@ -162,11 +162,7 @@ yarn add logikit
 <h4>Import and usage example</h4>    
 
 ```js
-
-const { Logger } = require('logikit'); 
-const { Colors } = require('logikit/colors'); 
-const { Styles } = require('logikit/styles'); 
-
+const { Logger, Colors, Styles } = require("logikit");
 
 function runApp() {
   Logger.info("Application started");                
