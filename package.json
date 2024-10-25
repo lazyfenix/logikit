@@ -135,6 +135,13 @@
         "log output formatting",
         "console log optimization"
     ],
+    "repository": {
+
+		"type": "git",
+
+		"url": "git+https://github.com/lazyfenix/logikit.git"
+
+	},
     "author": "lazyfenix",
     "license": "MIT"
   }
